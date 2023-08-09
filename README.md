@@ -33,6 +33,11 @@ introduced OxyContin to the FDA in 1996. Oxycontin was their name brand for oxyc
 **2000**
 By 2001, OxyContin was the best-selling narcotic pain reliever in the United States. It continued to be heavily promoted through the first decade of the century even as information about the drug's true addictive nature was uncovered. Eventually, thousands of lawsuits against Perdue Pharmaceauticals and The Sackler family caused the company to declare bankrupcy in 2019. However, OxyCotin is still being overperscribed to patients for moderate pain, and their effects are omnipresent. 
 
+# Sources
+
+The data used in this project comes from the [Centers for Disease Control and Prevention](https://www.cdc.gov/). Specifically, the [Drug Overdose](https://www.cdc.gov/drugoverdose/index.html) and [National Center for Health Statistics](https://www.cdc.gov/nchs/hus/data-finder.htm?year=2017&table=Table%20027) pages. The aggregate dataset can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpUn5YX4K6HoXxvWlL0UbtekGjQzeFCzGaOChXGI-w8329MpoakTEYZ24AC5TpAWxK3GEVnf_g6bSc/pubhtml).
+
+
 
 # The Impact of OxyContin
 ## Opioid related deaths between 1999 and 2015
