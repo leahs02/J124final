@@ -1,0 +1,53 @@
+State,ABR,Despensing Rate per 100 Ppl ,Location,Category,Percent change from 2019 to 2020,Statistically Significant,2019 Deaths,2019 Rate,2020 Deaths,2020 Rate
+Louisiana,LA,68.3,Louisiana,Did not meet inclusion criteria,n/a,n/a,n/a,n/a,n/a,n/a
+New York,NY,31.9,North Dakota,Did not meet inclusion criteria,n/a,n/a,n/a,n/a,n/a,n/a
+South Dakota,SD,39.9,South Dakota,Did not meet inclusion criteria,n/a,n/a,n/a,n/a,n/a,n/a
+Delaware,DE,45.2,District of Columbia,Stable - not significant,77.6,No,36,4.9,65,8.7
+Wisconsin,WI,39.6,West Virginia,Increase,75.2,Yes,185,10.5,303,18.4
+Minnesota,MN,30.2,Minnesota,Increase,46.2,Yes,143,2.6,213,3.8
+Rhode Island,RI,36.5,Rhode Island,Stable - not significant,42.4,No,63,5.9,87,8.4
+Hawaii,HI,27.3,Hawaii,Stable - not significant,37.5,No,26,1.6,31,2.2
+Virginia,VA,37.6,Vermont,Stable - not significant,36.7,No,29,4.9,39,6.7
+Kentucky,KY,68.2,Kentucky,Increase,35.5,Yes,345,7.8,466,10.8
+New Mexico,NM,40.5,New York,Increase,34,Yes,939,4.7,1257,6.3
+Maine,ME,40.3,Massachusetts,Increase,32.5,Yes,288,4,363,5.3
+Missouri,MO,54.4,Mississippi,Stable - not significant,31.3,No,97,3.2,119,4.2
+North Dakota,ND,36.7,Nevada,Increase,31,Yes,189,5.8,245,7.6
+Idaho,ID,49.9,Illinois,Increase,28.6,Yes,545,4.2,696,5.4
+Georgia,GA,53.9,Georgia,Increase,27.8,Yes,396,3.6,493,4.6
+Massachusetts,MA,33.3,Maine,Stable - not significant,25,No,73,5.6,92,7
+Colorado,CO,37.5,Colorado,Increase,23.3,Yes,258,4.3,323,5.3
+West Virginia,WV,53.7,Wisconsin,Increase,22.9,Yes,282,4.8,338,5.9
+Texas,TX,37.9,Texas,Increase,22.2,Yes,535,1.8,640,2.2
+Pennsylvania,PA,43.1,Pennsylvania,Increase,22,Yes,623,5,764,6.1
+South Carolina,SC,56.6,South Carolina,Increase,21.4,Yes,351,7,435,8.5
+Washington,WA,39.5,Washington,Increase,21.2,Yes,268,3.3,327,4
+Vermont,VT,34.8,Virginia,Increase,20,Yes,306,3.5,365,4.2
+Tennessee,TN,68.5,Tennessee,Increase,18.4,Yes,515,7.6,605,9
+Nevada,NV,47.4,North Carolina,Increase,17.5,Yes,420,4,487,4.7
+Wyoming,WY,46.7,Wyoming,Stable - not significant,17,No,28,4.7,30,5.5
+Illinois,IL,40.2,Indiana,Increase,16.1,Yes,400,6.2,461,7.2
+Montana,MT,46.1,Montana,Stable - not significant,16.1,No,33,3.1,39,3.6
+New Jersey,NJ,31.8,New Mexico,Stable - not significant,14.6,No,179,8.9,204,10.2
+California,CA,28.5,California,Increase,11.5,Yes,1073,2.6,1208,2.9
+Oregon,OR,45.6,Oregon,Stable - not significant,10.7,No,127,2.8,134,3.1
+Indiana,IN,56.9,Iowa,Stable - not significant,10,No,60,2,64,2.2
+Connecticut,CT,37,Connecticut,Stable - not significant,9,No,283,7.8,311,8.5
+Iowa,IA,40.2,Idaho,Stable - not significant,8.9,No,81,4.5,89,4.9
+Arkansas,AR,75.8,Arizona,Stable - not significant,8.2,No,364,4.9,389,5.3
+Ohio,OH,47.4,Ohio,Stable - not significant,7.1,No,477,4.2,511,4.5
+Michigan,MI,54.4,Michigan,Stable - not significant,6.5,No,454,4.6,495,4.9
+Florida,FL,43.4,Florida,Stable - not significant,3.6,No,1190,5.6,1255,5.8
+District of Columbia,DC,32.6,Delaware,Stable - not significant,2.4,No,75,8.2,82,8.4
+Arizona,AZ,40.5,Arkansas,Stable - not significant,0,No,98,3.5,105,3.5
+Kansas,KS,59.8,Kansas,Stable - not significant,0,No,85,3,82,3
+Maryland,MD,39.5,Maryland,Stable - not significant,0,No,589,9.4,589,9.4
+New Hampshire,NH,35.2,New Jersey,Stable - not significant,0,No,456,5,457,5
+Mississippi,MS,64.2,Missouri,Stable - not significant,-2.6,No,242,3.9,233,3.8
+Alabama,AL,80.4,Alaska,Stable - not significant,-4.9,No,47,6.1,45,5.8
+Alaska,AK,36.1,Alabama,Stable - not significant,-9.1,No,161,3.3,146,3
+Nebraska,NE,48,New Hampshire,Stable - not significant,-9.1,No,45,3.3,44,3
+North Carolina,NC,52.8,Nebraska,Stable - not significant,-10,No,39,2,35,1.8
+Oklahoma,OK,59.3,Oklahoma,Stable - not significant,-14.7,No,133,3.4,117,2.9
+Utah,UT,48.4,Utah,Stable - not significant,-15.1,No,277,9.3,235,7.9
+United States,US,43.3,,,,,,,,
