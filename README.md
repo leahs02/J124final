@@ -75,7 +75,11 @@ Percent change is found by comparing the difference between the values with the 
 
     Percent Change =  new - old / old * 100
 
+**Step 3:** Apply the function to the row containing data for all persons of all ages.
 
+<img width="164" alt="Screenshot 2023-08-09 at 3 21 54 PM" src="https://github.com/leahs02/J124final/assets/117393397/ddd8cfe2-ff09-4bfc-8077-4857523e0ae4">
+
+ 
 As Purdue Pharma bought a monopoly on America’s pain, citizens were feeling its effects. In the twenty years that followed Purdue Pharma’s introduction of OxyContin into the world, there was a **171% increase in total opioid overdose deaths between 1999 and 2015.** The results are even more jarring when you break it down by age group.
 
 
