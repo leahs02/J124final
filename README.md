@@ -1,5 +1,9 @@
 # J124final
 
+# Story Pitch 
+
+Addiction is a **multifaceted phenomenon** that Purdue Pharmaceauticals exponentially enabled with the flase promotion of OxyContin as a safe drug for pain management. I will explore the **long term effects of America's opioid epidemic** by illustrating the the impact the rise in opioid perscribing has had on fatal overdoses nationwide. I will begin with a short history on the subject to contexualize the drug, then follow with an analysis of its lasting effects. The Sackler family had used their profit to manipulate US State Attorneys, FDA officials and medical board practitioners. They sold out in exchange for the health of the nation, and I will show how hundreds of thousands of lives were cut short for profit.
+
 # Opioids
 Opioids is an all encompassing term referring to natural, semi - synthetic, and synthetic opioids. Opiates are natural opioids, which are directly derived from the extremely addictive latex of the seeds of the Papaver Somniferum, or opium poppies. Examples include heroin, morphine and codeine. Synthetic opioids are chemically made with examples including tramadol and fentanyl. Semi-synthetic opioids land in a gray area in between, kind of like GMOs. Heroin is an example of a semi-synthetic opioid because it is made from morphine, an opiate, but has been chemically processed. Other examples of semi-synthetic opioids include oxycodone, hydrocodone, hydromorphone, and oxymorphone.
 
@@ -27,7 +31,8 @@ Purdue Pharmaceuticals, a pharmaceutical company primarily owned by the Sackler 
 introduced OxyContin to the FDA in 1996. Oxycontin was their name brand for oxycodone, a semi-synthetic opioid. Perdue Pharmaceuticals aggressively marketed their drug as the first non-addictive opioid. Purdue Pharmaceuticals engaged in numerous quid-pro-quos with elite officials resulting in a special FDA label for OxyCotin’s approval. This marked the first time the FDA had ever labeled a class II narcotic as “less addictive”. The Sackler family completely fabricated the narrative of OxyContin. Their drug was tested by scientists and recommended by doctors on their payroll. Sales for the drug grew from $48 million in 1996 to almost $1.1 billion in 2000.
 
 **2000**
-By 2001, OxyContin was the best-selling narcotic pain reliever in the United States. It continued to be heavily promoted through the first decade of the century even as information about the drug's true addictive nature was uncovered. The Sackler family had used their profit to manipulate US State Attorneys, FDA officials and medical board practitioners. They sold out in exchange for the health of the nation, and hundreds of thousands of lives were cut short for profit.
+By 2001, OxyContin was the best-selling narcotic pain reliever in the United States. It continued to be heavily promoted through the first decade of the century even as information about the drug's true addictive nature was uncovered. Eventually, thousands of lawsuits against Perdue Pharmaceauticals and The Sackler family caused the company to declare bankrupcy in 2019. However, OxyCotin is still being overperscribed to patients for moderate pain, and their effects are omnipresent. 
+
 
 # The Impact of OxyContin
 ## Opioid related deaths between 1999 and 2015
