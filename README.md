@@ -65,6 +65,7 @@ The first point of reference I will use to assess the impact the approval of Oxy
 In exploring how long these trends have lasted, I decided to calculate the percent change in opioid overdose deaths between 1999 and 2015 utilizing the data from the CDCs blah blah blah.
 
 **Step 1:** Create a new column to store the percent change values "Insert" --> "Insert Column"
+
 **Step 2:** Create a function to compute percent change
 
 Percent change is found by comparing the difference between the values with the original number:
@@ -83,6 +84,7 @@ As Purdue Pharma bought a monopoly on America’s pain, citizens were feeling it
 ### _**Question 2:** What group was the most affected?_
 
 **Step 1:** Apply the percent change formula to all of the cells in the percent change column by clicking & dragging curser to encompass all the data.
+
 **Step 2:** Sort the data based on the percent change column in descending order such that the group with the highest percent change will be listed first
 Select the "Percent Change" column--> "Data" --> "Sort Sheet" --> "Sort sheet by column (Z-> A)
 
@@ -135,13 +137,19 @@ Percent change is found by comparing the difference between the values with the 
 
 I then wanted to find the states with the three highest percent changes between 1999 and 2021.
 
-**Step 1:** Sort the data based on the percent change column in descending order such that the States with the highest percent change will be listed first
-	Select the "Percent Change" column --> "Data" --> "Sort Sheet" --> "Sort sheet by column (Z-> A)
+**Step 1:** Create a new pivot table 
+	Insert--> Pivot Table--> select "State" as the ROW and "% Change" as the VALUES 
 
+ **Step 2:** Sort the data based on the percent change column in descending order such that the states with the highest percent change will be listed first
+	Pivot table editor --> sort ROWS by "% Change", Descending.
+
+<img width="225" alt="Screenshot 2023-08-09 at 3 51 33 PM" src="https://github.com/leahs02/J124final/assets/117393397/474ac9c4-6877-4c08-ae7d-6559d20d4433">
+
+<img width="253" alt="Screenshot 2023-08-09 at 3 51 27 PM" src="https://github.com/leahs02/J124final/assets/117393397/a5e41114-66ff-40a8-905a-e3ce5a93045f">
 
 ### Findings 
 
-The largest increases in opioid related overdoses were in** Delaware, Wisconson, and Minnisota. **
+The largest increases in opioid related overdoses were in **West Virginia, Indiana, and Louisiana.**
 
 There was **not one state with descreasing percent change in opioid related overdoses between 1999 and 2021.**
 
