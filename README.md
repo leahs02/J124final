@@ -64,7 +64,7 @@ The data used in this project comes from the [Centers for Disease Control and Pr
 The first point of reference I will use to assess the impact the approval of OxyContin for pain management has had is through the analysis on the number of opioid related deaths our country has seen since. 
 
 
-_**Question 1:** How have the number of opioid related deaths changed in the past couple of decades?_
+## _**Question 1:** How have the number of opioid related deaths changed in the past couple of decades?_
 
 In exploring how long these trends have lasted, I decided to calculate the percent change in opioid overdose deaths between 1999 and 2015 utilizing the data from the CDCs blah blah blah.
 
@@ -80,21 +80,23 @@ Percent change is found by comparing the difference between the values with the 
 <img width="164" alt="Screenshot 2023-08-09 at 3 21 54 PM" src="https://github.com/leahs02/J124final/assets/117393397/ddd8cfe2-ff09-4bfc-8077-4857523e0ae4">
 
  
+### Findings
 As Purdue Pharma bought a monopoly on America’s pain, citizens were feeling its effects. In the twenty years that followed Purdue Pharma’s introduction of OxyContin into the world, there was a **171% increase in total opioid overdose deaths between 1999 and 2015.** The results are even more jarring when you break it down by age group.
 
 
-_**Question 2:** What group was the most affected?_
+## _**Question 2:** What group was the most affected?_
 
 **Step 1:** Apply the percent change formula to all of the cells in the percent change column by clicking & dragging curser to encompass all the data.
 **Step 2:** Sort the data based on the percent change column in descending order such that the group with the highest percent change will be listed first
 "Data" --> "Sort Sheet" --> "Sort sheet by column (Z-> A)
 
 
+### Findings
 Females, aged 25 - 34, saw a **1,433.33% increase in opioid related deaths between 1999 and 2015.**
 
 # The Source of the Drugs
 
-_**Question 3:** Where are these drugs coming from?_
+## _**Question 3:** Where are these drugs coming from?_
 
 I approached this question by first looking at the states which had the highest rates of prescriptions per capita. 
 
@@ -104,18 +106,20 @@ use VLOOK UP with a key of the states in each geographical region and match that
 
 Mention that this is a limitation because its where the doctors wrote the prescription from, not where they were ingested. Thus.. what follows is that where people are actually dying might be different from where they were prescribed. 
 
-_**Question 4:** What do overdose rates look like per state?_
+## _**Question 4:** What do overdose rates look like per state?_
 
-Utilizing data from the CDC's National Center for Health Statistics, I created a choropleth map illustrating the rate of fatal overdoses by state per 100,000 persons. 
+Utilizing data from the CDC's National Center for Health Statistics, I created a [choropleth map illustrating the rate of fatal overdoses by state per 100,000 persons](https://www.datawrapper.de/_/HIGDz/). 
 
 ![HIGDz-fatal-overdoses-by-state-nbsp- (2)](https://github.com/leahs02/J124-final/assets/117393397/44bc430c-9f60-4584-8027-18125a360b0b)
 
+### Findings
 The darker the state is, the higher the rate is for drug overdoses per capita. West Virginia had the highest rate of fatal overdoses of 90 per 100,000 people dying that year from overdoses. In the area between the midwest and the east coast, this trend of high rates continues as the map darkens all throughout Kentucky and Tennessee with rates of about 56 overdose deaths per 100,000 people. 
 
 What do all of these states have in common? They are all considered to be part of the Appalachian Region. 
 
-**_Question 5:** How are rates per state changing_
+## _**Question 5:** How are rates per state changing_
 
+### Findings 
 According to data the CDC collected in 2019-2020, opioid overdoses are still increasing. Based on rates collected in each year, **there are still 19 states with statistically significant increasing rates.**
 
 <img width="301" alt="Screenshot 2023-08-08 at 10 57 44 PM" src="https://github.com/leahs02/J124final/assets/117393397/e6e8ecc5-332b-4b25-af6c-2adaac212e14">
