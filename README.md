@@ -47,16 +47,12 @@ The data used in this project comes from the [Centers for Disease Control and Pr
 	* Phone Number: 614-378-0669
 	* As the Addiction Services Director in Columbus, Ohio, Andrea has seen the direct impact the opioid crisis has had on the city's community. Her routine involves a lot of fieldwork on the streets in addiction afflicted neighborhoods. She could be helpful in determining where the data might be falling short, as there may be entire populations of abusers that don't get counted by the CDC's routine data collection.
 
-## Additional Sources
+## Additional Resources
 
 1) [National Survey on Drug Use and Health (NSDUH)](https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/NSDUH-2013/NSDUH-2013-datasets/NSDUH-2013-DS0001/NSDUH-2013-DS0001-info/NSDUH-2013-DS0001-info-questionnaire-specs.pdf)
     * NSDUH is the leading source of statistical data on alcohol, tobacco, drug use, mental health, and other health-related issues in the United States among the general population.
     * This dataset has important information on the rates of people who used prescription opioid WITHOUT being directed by a doctor to do so (questions beginnin on page 137 of the PDF).
-    * This could contribute to my reporting in developing the argument that Purdue Pharma's "safe and non-addictive" opioids are actually being heavily abused by Americans around the country.
-  
-
-  
-   
+    * This could contribute to my reporting in developing the argument that Purdue Pharma's "safe and non-addictive" opioids are actually being heavily abused by Americans around the country. 
 
 # The Impact of OxyContin
 ## Opioid related deaths between 1999 and 2015
@@ -64,7 +60,7 @@ The data used in this project comes from the [Centers for Disease Control and Pr
 The first point of reference I will use to assess the impact the approval of OxyContin for pain management has had is through the analysis on the number of opioid related deaths our country has seen since. 
 
 
-## _**Question 1:** How have the number of opioid related deaths changed in the past couple of decades?_
+### _Question 1: How have the number of opioid related deaths changed in the past couple of decades?_
 
 In exploring how long these trends have lasted, I decided to calculate the percent change in opioid overdose deaths between 1999 and 2015 utilizing the data from the CDCs blah blah blah.
 
@@ -84,19 +80,19 @@ Percent change is found by comparing the difference between the values with the 
 As Purdue Pharma bought a monopoly on America’s pain, citizens were feeling its effects. In the twenty years that followed Purdue Pharma’s introduction of OxyContin into the world, there was a **171% increase in total opioid overdose deaths between 1999 and 2015.** The results are even more jarring when you break it down by age group.
 
 
-## _**Question 2:** What group was the most affected?_
+### _**Question 2:** What group was the most affected?_
 
 **Step 1:** Apply the percent change formula to all of the cells in the percent change column by clicking & dragging curser to encompass all the data.
 **Step 2:** Sort the data based on the percent change column in descending order such that the group with the highest percent change will be listed first
-"Data" --> "Sort Sheet" --> "Sort sheet by column (Z-> A)
+Select the "Percent Change" column--> "Data" --> "Sort Sheet" --> "Sort sheet by column (Z-> A)
 
 
-### Findings
+#### Findings
 Females, aged 25 - 34, saw a **1,433.33% increase in opioid related deaths between 1999 and 2015.**
 
 # The Source of the Drugs
 
-## _**Question 3:** Where are these drugs coming from?_
+### _Question 3: Where are these drugs coming from?_
 
 I approached this question by first looking at the states which had the highest rates of prescriptions per capita. 
 
@@ -106,7 +102,7 @@ use VLOOK UP with a key of the states in each geographical region and match that
 
 Mention that this is a limitation because its where the doctors wrote the prescription from, not where they were ingested. Thus.. what follows is that where people are actually dying might be different from where they were prescribed. 
 
-## _**Question 4:** What do overdose rates look like per state?_
+### _Question 4: What do overdose rates look like per state?_
 
 Utilizing data from the CDC's National Center for Health Statistics, I created a [choropleth map illustrating the rate of fatal overdoses by state per 100,000 persons](https://www.datawrapper.de/_/HIGDz/). 
 
@@ -117,17 +113,35 @@ The darker the state is, the higher the rate is for drug overdoses per capita. W
 
 What do all of these states have in common? They are all considered to be part of the Appalachian Region. 
 
-## _**Question 5:** How are rates per state changing_
+### _Question 5: How are rates per state changing_
+
+To explore how the rates of overdoses per state have changed, I created a pivot table to vizualize the breakdown of each states overdose rate per capita per year. From there, I calculated the percent change between years 1999 and 2021 for each state. 
+
+**Step 1:** Create a pivot table
+	Insert--> Pivot Table--> select "State" as the ROW, "Year" as the COLUMN, and "Rate" as the VALUES
+
+<img width="236" alt="Screenshot 2023-08-09 at 3 36 57 PM" src="https://github.com/leahs02/J124final/assets/117393397/d8c6a1f3-2b9a-42be-b81a-1e57ff13ad7b">
+
+**Step 2:** Create a function to compute percent change
+
+Percent change is found by comparing the difference between the values with the original number:
+
+    Percent Change =  new - old / old * 100
+
+**Step 3:** Apply the function to the entire table.
+	Select the first cell with your curser and drag to the end of the table.
+
+<img width="729" alt="Screenshot 2023-08-08 at 11 14 36 PM" src="https://github.com/leahs02/J124final/assets/117393397/0e23fb95-94c5-4219-8de1-446e85228875">
+
+I then wanted to find the states with the three highest percent changes between 1999 and 2021.
+
+**Step 1:** Sort the data based on the percent change column in descending order such that the States with the highest percent change will be listed first
+	Select the "Percent Change" column --> "Data" --> "Sort Sheet" --> "Sort sheet by column (Z-> A)
+
 
 ### Findings 
-According to data the CDC collected in 2019-2020, opioid overdoses are still increasing. Based on rates collected in each year, **there are still 19 states with statistically significant increasing rates.**
 
-<img width="301" alt="Screenshot 2023-08-08 at 10 57 44 PM" src="https://github.com/leahs02/J124final/assets/117393397/e6e8ecc5-332b-4b25-af6c-2adaac212e14">
+The largest increases in opioid related overdoses were in** Delaware, Wisconson, and Minnisota. **
 
-The largest increases have been in Delaware, Wisconson, and Minnisota. 
-
-<img width="201" alt="Screenshot 2023-08-08 at 11 08 48 PM" src="https://github.com/leahs02/J124final/assets/117393397/347da67a-3de8-4689-8ece-ed771718d242">
-
-The last piece of analysis I explored was 
-<img width="729" alt="Screenshot 2023-08-08 at 11 14 36 PM" src="https://github.com/leahs02/J124final/assets/117393397/0e23fb95-94c5-4219-8de1-446e85228875">
+There was **not one state with descreasing percent change in opioid related overdoses between 1999 and 2021.**
 
