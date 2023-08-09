@@ -37,7 +37,7 @@ By 2001, OxyContin was the best-selling narcotic pain reliever in the United Sta
 The data used in this project comes from the [Centers for Disease Control and Prevention](https://www.cdc.gov/). Specifically, the [Drug Overdose](https://www.cdc.gov/drugoverdose/index.html) and [National Center for Health Statistics](https://www.cdc.gov/nchs/hus/data-finder.htm?year=2017&table=Table%20027) pages. The aggregate dataset can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpUn5YX4K6HoXxvWlL0UbtekGjQzeFCzGaOChXGI-w8329MpoakTEYZ24AC5TpAWxK3GEVnf_g6bSc/pubhtml).
 
 ## Potential Interview Contacts
-1) Christina Mullins, Deputy Secretary of Mental Health and Substance Use Disorders
+1) Christina Mullins, Deputy Secretary of Mental Health and Substance Use Disorders at West Virginia Department of Healht and Human Resources.
 	* Email: Christina.R.Mullins@wv.gov
 	* Phone Number: 304-558-0627
 	* Christina Mullins has had the experience of living and working in West Virginia, the "ground-zero" state in the opioid crisis. Her insight on the hsitory of drug abuse in the area would be helpful in contexualizing the increasing trends seen in opioid overdose deaths from the 90's to recent. 
