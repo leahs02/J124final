@@ -54,6 +54,11 @@ The data used in this project comes from the [Centers for Disease Control and Pr
     * This dataset has important information on the rates of people who used prescription opioid WITHOUT being directed by a doctor to do so (questions beginnin on page 137 of the PDF).
     * This could contribute to my reporting in developing the argument that Purdue Pharma's "safe and non-addictive" opioids are actually being heavily abused by Americans around the country. 
 
+2) [Drug Abuse Warning Network (DAWN)](https://store.samhsa.gov/sites/default/files/pep22-07-03-002.pdf)
+   * DAWN is a nationwide public health surveillance system that captures data on emergency department visits related to recent substance use and misuse directly from the electronic health records of participating hospitals.
+   * The specific data I am interested in concerns opioid-related Emergency Department visits (seen on page 21)
+   * This data would add another level on analysis to my argument, as for I am limited to opioid related incidents resulting in dealth (fatal overdoses).
+
 # The Impact of OxyContin
 ## Opioid related deaths between 1999 and 2015
 
