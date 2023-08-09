@@ -1,7 +1,6 @@
-# J124final
+# J124 Final
 
 # Story Pitch 
-
 Addiction is a **multifaceted phenomenon** that Purdue Pharmaceauticals exponentially enabled with the flase promotion of OxyContin as a safe drug for pain management. I will explore the **long term effects of America's opioid epidemic** by illustrating the the impact the rise in opioid perscribing has had on fatal overdoses nationwide. I will begin with a short history on the subject to contexualize the drug, then follow with an analysis of its lasting effects. The Sackler family had used their profit to manipulate US State Attorneys, FDA officials and medical board practitioners. They sold out in exchange for the health of the nation, and I will show how hundreds of thousands of lives were cut short for profit.
 
 # Opioids
@@ -34,10 +33,30 @@ introduced OxyContin to the FDA in 1996. Oxycontin was their name brand for oxyc
 By 2001, OxyContin was the best-selling narcotic pain reliever in the United States. It continued to be heavily promoted through the first decade of the century even as information about the drug's true addictive nature was uncovered. Eventually, thousands of lawsuits against Perdue Pharmaceauticals and The Sackler family caused the company to declare bankrupcy in 2019. However, OxyCotin is still being overperscribed to patients for moderate pain, and their effects are omnipresent. 
 
 # Sources
-
+## The Data
 The data used in this project comes from the [Centers for Disease Control and Prevention](https://www.cdc.gov/). Specifically, the [Drug Overdose](https://www.cdc.gov/drugoverdose/index.html) and [National Center for Health Statistics](https://www.cdc.gov/nchs/hus/data-finder.htm?year=2017&table=Table%20027) pages. The aggregate dataset can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpUn5YX4K6HoXxvWlL0UbtekGjQzeFCzGaOChXGI-w8329MpoakTEYZ24AC5TpAWxK3GEVnf_g6bSc/pubhtml).
 
+## Potential Interview Contacts
+1) Christina Mullins, Deputy Secretary of Mental Health and Substance Use Disorders
+	* Email: Christina.R.Mullins@wv.gov
+	* Phone Number: 304-558-0627
+	* Christina Mullins has had the experience of living and working in West Virginia, the "ground-zero" state in the opioid crisis. Her insight on the hsitory of drug abuse in the area would be helpful in contexualizing the increasing trends seen in opioid overdose deaths from the 90's to recent. 
+ 
+2) Andrea Boxill, MA, LCDCII, Director of Addiction Services at Columbus Public Health.
+	* Email: AKBoxill@columbus.gov
+	* Phone Number: 614-378-0669
+	* As the Addiction Services Director in Columbus, Ohio, Andrea has seen the direct impact the opioid crisis has had on the city's community. Her routine involves a lot of fieldwork on the streets in addiction afflicted neighborhoods. She could be helpful in determining where the data might be falling short, as there may be entire populations of abusers that don't get counted by the CDC's routine data collection.
 
+## Additional Sources
+
+1) [National Survey on Drug Use and Health (NSDUH)](https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/NSDUH-2013/NSDUH-2013-datasets/NSDUH-2013-DS0001/NSDUH-2013-DS0001-info/NSDUH-2013-DS0001-info-questionnaire-specs.pdf)
+    * NSDUH is the leading source of statistical data on alcohol, tobacco, drug use, mental health, and other health-related issues in the United States among the general population.
+    * This dataset has important information on the rates of people who used prescription opioid WITHOUT being directed by a doctor to do so (questions beginnin on page 137 of the PDF).
+    * This could contribute to my reporting in developing the argument that Purdue Pharma's "safe and non-addictive" opioids are actually being heavily abused by Americans around the country.
+  
+
+  
+   
 
 # The Impact of OxyContin
 ## Opioid related deaths between 1999 and 2015
