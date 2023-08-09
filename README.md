@@ -113,10 +113,11 @@ Mention that this is a limitation because its where the doctors wrote the prescr
 
 Utilizing data from the CDC's National Center for Health Statistics, I created a [choropleth map illustrating the rate of fatal overdoses by state per 100,000 persons](https://www.datawrapper.de/_/HIGDz/). 
 
-![HIGDz-fatal-overdoses-by-state-nbsp- (2)](https://github.com/leahs02/J124-final/assets/117393397/44bc430c-9f60-4584-8027-18125a360b0b)
+![COROPLETH MAP](https://github.com/leahs02/J124final/assets/117393397/659a7863-f48d-4e65-a15a-7cce239d968c)
 
 ### Findings
-The darker the state is, the higher the rate is for drug overdoses per capita. West Virginia had the highest rate of fatal overdoses of 90 per 100,000 people dying that year from overdoses. In the area between the midwest and the east coast, this trend of high rates continues as the map darkens all throughout Kentucky and Tennessee with rates of about 56 overdose deaths per 100,000 people. 
+The darker the state is, the higher the rate is for drug overdoses per capita. West Virginia had the highest rate of fatal overdoses of 90 per
+100,000 people dying that year from overdoses. In the area between the midwest and the east coast, this trend of high rates continues as the map darkens all throughout Kentucky and Tennessee with rates of about 56 overdose deaths per 100,000 people. 
 
 What do all of these states have in common? They are all considered to be part of the Appalachian Region. 
 
