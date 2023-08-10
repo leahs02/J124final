@@ -21,10 +21,6 @@ By 1914, the government placed their first real ban on the management of opioids
 **Mid 1900**
 Synthetic and semi-synthetic opioids started to emerge. Morphine’s use to manage pain in clinical practice began to be overtaken by these new semi-synthetic and synthetic opioids that are significantly more powerful.
 
-→ Graph of opioid potency 
-
-Morphine is the standard by which pain relievers are measured:
-
 **Late 1900**
 Purdue Pharmaceuticals, a pharmaceutical company primarily owned by the Sackler Family, 
 introduced OxyContin to the FDA in 1996. Oxycontin was their name brand for oxycodone, a semi-synthetic opioid. Perdue Pharmaceuticals aggressively marketed their drug as the first non-addictive opioid. Purdue Pharmaceuticals engaged in numerous quid-pro-quos with elite officials resulting in a special FDA label for OxyCotin’s approval. This marked the first time the FDA had ever labeled a class II narcotic as “less addictive”. The Sackler family completely fabricated the narrative of OxyContin. Their drug was tested by scientists and recommended by doctors on their payroll. Sales for the drug grew from $48 million in 1996 to almost $1.1 billion in 2000.
