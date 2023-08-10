@@ -14,9 +14,10 @@ Morphine was first isolated in the early 17th century by German physicist Friedr
 Morphine becomes commercially produced. Hydroponic needles are invented and morphine becomes much easier to administer. Doctors start prescribing more morphine to chronic pain patients; it is utilized at high rates during the civil war to treat soldiers' battle injuries. Morphine addiction is widely recognized by the public 
 
 **Late 1800**
-Scientist Alder Wright invented Heroin, a mix of morphine and other chemicals, in hopes for a less addictive painkiller to treat morphine addiction. It wasn’t until years after it had been the go-to doctor prescribed pain killer that it was realized heroin was much more addictive than morphine. 
-Early 1900s
-By 1914, the government placed their first real ban on the management of opioids with Congress’ passing of the Harrison Narcotics Act. The act regulated and taxed the production, importation and distribution of opioids. Ten years later, the 1924 Heroin Act outlawed all use of heroin. German researchers created Oxycodone from an opioid derivative.
+Scientist Alder Wright invented Heroin, a mix of morphine and other chemicals, in hopes it would be a less addictive painkiller to treat morphine addiction. It wasn’t until years after it had been implemented as a prescription pain killer that it was realized heroin was much more addictive than morphine. 
+
+**Early 1900s**
+By 1914, the government placed their first real ban on the management of opioids with Congress’ passing of the Harrison Narcotics Act. The act regulated and taxed the production, importation and distribution of opioids. Ten years later, the 1924 Heroin Act outlawed all use of heroin. Around this same time, German researchers created Oxycodone from an opioid derivative.
 
 **Mid 1900**
 Synthetic and semi-synthetic opioids started to emerge. Morphine’s use to manage pain in clinical practice began to be overtaken by these new semi-synthetic and synthetic opioids that are significantly more powerful.
