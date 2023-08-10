@@ -1,7 +1,7 @@
 # J124 Final
 
 # Story Pitch 
-Addiction is a **multifaceted phenomenon** that Purdue Pharmaceauticals exponentially enabled with the flase promotion of OxyContin as a safe drug for pain management. I will explore the **long term effects of America's opioid epidemic** by illustrating the the impact the rise in opioid perscribing has had on fatal overdoses nationwide. I will begin with a short history on the subject to contexualize the drug, then follow with an analysis of its lasting effects. The Sackler family had used their profit to manipulate US State Attorneys, FDA officials and medical board practitioners. They sold out in exchange for the health of the nation, and I will show how hundreds of thousands of lives were cut short for profit.
+Addiction is a **multifaceted phenomenon** that Purdue Pharmaceauticals exponentially enabled with the flase promotion of OxyContin as a safe drug for pain management. I will explore the **long term effects of America's opioid epidemic** by illustrating the impact the rise in opioid perscribing has had on fatal overdoses nationwide. I will begin with a short history on the subject to contexualize the drug, then follow with an analysis of its lasting effects. The Sackler family had used their profit to manipulate US State Attorneys, FDA officials and medical board practitioners. They sold out in exchange for the health of the nation, and I will show how hundreds of thousands of lives were cut short for profit.
 
 # Opioids
 Opioids is an all encompassing term referring to natural, semi - synthetic, and synthetic opioids. Opiates are natural opioids, which are directly derived from the extremely addictive latex of the seeds of the Papaver Somniferum, or opium poppies. Examples include heroin, morphine and codeine. Synthetic opioids are chemically made with examples including tramadol and fentanyl. Semi-synthetic opioids land in a gray area in between, kind of like GMOs. Heroin is an example of a semi-synthetic opioid because it is made from morphine, an opiate, but has been chemically processed. Other examples of semi-synthetic opioids include oxycodone, hydrocodone, hydromorphone, and oxymorphone.
@@ -113,11 +113,11 @@ Pivot table editor --> sort ROWS by "SUM of Dispensing Rate per 100 People", Des
 
 The 10 states with the highest opioid dispensing rates per capita in 2020 included **Alabama, Arkansas, Tennessee, Louisiana, Kentucky, Mississippi, Kansas, Oklahoma, Indiana.** Most of these states are in the southern and midwestern regions.
 
-The more shocking finding from this analysis, though, was the actual rates themselves. **Doctors in Alabama prescribed enough opioids such that 80 out of every 100 people could be using.** Opioids are _dangerous_ and _addictive,_ and should _only_ be used by patients in cases of extreme pain. The fact that there were enough opioids to supply half of the populations in those ten states listed above should be horrifying. Even if you litened to your doctor and took your medication exactly as instructed, doctors over perscribed at such hugh rates that addiction among patient became increasingly common. The governemnt and health officials sat complacient while our country was being roofied by Purdue Pharma.
+The more shocking finding from this analysis, though, was the actual rates themselves. **Doctors in Alabama prescribed enough opioids such that 80 out of every 100 people could be using.** Opioids are _dangerous_ and _addictive,_ and should _only_ be used by patients in cases of extreme pain. The fact that there were enough opioids to supply half of the populations in those ten states listed above should be horrifying. Even if you listened to your doctor and took your medication exactly as instructed, doctors over perscribed at such hugh rates that addiction among patient became increasingly common. The governemnt and health officials sat complacient while our country was being roofied by Purdue Pharma.
 
 There is one notable limitation to this graph that I should mention here: this data lists the retail opioid prescriptions dispensed per 100 people per state, not necessarily where the drugs were taken. 
 
-So unless 80 out of every 100 people in Alabama had actually been using up the opioids prescribed to them, it's easy to see how a lot of the pills could have make it out of bathroom cabinents and onto the streets. Often abusers would have to travel across state lines to reach "pill mills", clinics they knew would over perscribe, to get their fix. 
+So unless 80 out of every 100 people in Alabama had actually been consuming all of the opioids prescribed to them, it's easy to see how a lot of the pills could have make it out of bathroom cabinents and onto the streets. Often abusers would have to travel across state lines to reach "pill mills", clinics they knew would over perscribe, to get their fix. 
 
 Thus, I next wanted to explore if the rates of where people were using lined up similarly to where the pills were being distributed. 
 
@@ -140,7 +140,7 @@ Pivot table editor --> sort ROWS by "Rate", Descending.
 
 The states with the ten highest rates of opioid related overdoses in 2020 were **West Virginia, Kentucky, Deleware, Ohio, Tennessee, Maryland, Louisiana, Pennsylvania, and Maine.**
 
-It is interesting that the states with the highest rate of opioid despending aren't also the ones with the highest rates of overdoses. 
+It is interesting that the states with the highest rate of opioid despensing aren't also the ones with the highest rates of overdoses. 
 
 ### _Question 5: How has this changed over time?_
 
