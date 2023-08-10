@@ -13,31 +13,31 @@ Morphine was first isolated in the early 17th century by German physicist Friedr
 **Mid 1800s**
 Morphine becomes commercially produced. Hydroponic needles are invented and morphine becomes much easier to administer. Doctors start prescribing more morphine to chronic pain patients; it is utilized at high rates during the civil war to treat soldiers' battle injuries. Morphine addiction is widely recognized by the public 
 
-**Late 1800**
+**Late 1800s**
 Scientist Alder Wright invented Heroin, a mix of morphine and other chemicals, in hopes it would be a less addictive painkiller to treat morphine addiction. It wasn’t until years after it had been implemented as a prescription pain killer that it was realized heroin was much more addictive than morphine. 
 
 **Early 1900s**
 By 1914, the government placed their first real ban on the management of opioids with Congress’ passing of the Harrison Narcotics Act. The act regulated and taxed the production, importation and distribution of opioids. Ten years later, the 1924 Heroin Act outlawed all use of heroin. Around this same time, German researchers created Oxycodone from an opioid derivative.
 
-**Mid 1900**
+**Mid 1900s**
 Synthetic and semi-synthetic opioids started to emerge. Morphine’s use to manage pain in clinical practice began to be overtaken by these new semi-synthetic and synthetic opioids that are significantly more powerful.
 
-**Late 1900**
+**Late 1900s**
 Purdue Pharmaceuticals, a pharmaceutical company primarily owned by the Sackler Family, 
-introduced OxyContin to the FDA in 1996. Oxycontin was their name brand for oxycodone, a semi-synthetic opioid. Perdue Pharmaceuticals aggressively marketed their drug as the first non-addictive opioid. Purdue Pharmaceuticals engaged in numerous quid-pro-quos with elite officials resulting in a special FDA label for OxyCotin’s approval. This marked the first time the FDA had ever labeled a class II narcotic as “less addictive”. The Sackler family completely fabricated the narrative of OxyContin. Their drug was tested by scientists and recommended by doctors on their payroll. Sales for the drug grew from $48 million in 1996 to almost $1.1 billion in 2000.
+introduced OxyContin to the FDA in 1996. Oxycontin was their name brand for oxycodone, a semi-synthetic opioid. Perdue Pharmaceuticals aggressively marketed their drug as the first non-addictive opioid. Purdue Pharmaceuticals engaged in numerous quid-pro-quos with elite officials resulting in a special FDA label for OxyContin’s approval. This marked the first time the FDA had ever labeled a class II narcotic as “less addictive”. The Sackler family completely fabricated the narrative of OxyContin. Their drug was tested by scientists and recommended by doctors on their payroll. Sales for the drug grew from $48 million in 1996 to almost $1.1 billion in 2000.
 
-**2000**
-By 2001, OxyContin was the best-selling narcotic pain reliever in the United States. It continued to be heavily promoted through the first decade of the century even as information about the drug's true addictive nature was uncovered. Eventually, thousands of lawsuits against Perdue Pharmaceauticals and The Sackler family caused the company to declare bankrupcy in 2019. However, OxyCotin is still being overperscribed to patients for moderate pain, and their effects are omnipresent. 
+**2000s**
+By 2001, OxyContin was the best-selling narcotic pain reliever in the United States. It continued to be heavily promoted through the first decade of the century even as information about the drug's true addictive nature was uncovered. Eventually, thousands of lawsuits against Perdue Pharmaceauticals and The Sackler family caused the company to declare bankrupcy in 2019. However, OxyContin is still being overperscribed to patients for moderate pain, and their effects are omnipresent. 
 
 # Sources
 ## The Data
 The data used in this project comes from the [Centers for Disease Control and Prevention](https://www.cdc.gov/). Specifically, the [Drug Overdose](https://www.cdc.gov/drugoverdose/index.html) and [National Center for Health Statistics](https://www.cdc.gov/nchs/hus/data-finder.htm?year=2017&table=Table%20027) pages. The aggregate dataset can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpUn5YX4K6HoXxvWlL0UbtekGjQzeFCzGaOChXGI-w8329MpoakTEYZ24AC5TpAWxK3GEVnf_g6bSc/pubhtml).
 
 ## Potential Interview Contacts
-1) Christina Mullins, Deputy Secretary of Mental Health and Substance Use Disorders at West Virginia Department of Healht and Human Resources.
+1) Christina Mullins, Deputy Secretary of Mental Health and Substance Use Disorders at West Virginia Department of Health and Human Resources.
 	* Email: Christina.R.Mullins@wv.gov
 	* Phone Number: 304-558-0627
-	* Christina Mullins has had the experience of living and working in West Virginia, the "ground-zero" state in the opioid crisis. Her insight on the hsitory of drug abuse in the area would be helpful in contexualizing the increasing trends seen in opioid overdose deaths from the 90's to recent. 
+	* Christina Mullins has had the experience of living and working in West Virginia, the "ground-zero" state in the opioid crisis. Her insight on the history of drug abuse in the area would be helpful in contexualizing the increasing trends seen in opioid overdose deaths from the 90's until recent. 
  
 2) Andrea Boxill, MA, LCDCII, Director of Addiction Services at Columbus Public Health.
 	* Email: AKBoxill@columbus.gov
@@ -54,17 +54,17 @@ The data used in this project comes from the [Centers for Disease Control and Pr
 2) [Drug Abuse Warning Network (DAWN)](https://store.samhsa.gov/sites/default/files/pep22-07-03-002.pdf)
    * DAWN is a nationwide public health surveillance system that captures data on emergency department visits related to recent substance use and misuse directly from the electronic health records of participating hospitals.
    * The specific data I am interested in concerns opioid-related Emergency Department visits (seen on page 21)
-   * This data would add another level on analysis to my argument, as for I am limited to opioid related incidents resulting in dealth (fatal overdoses).
+   * This data would add another level on analysis to my argument, as for I am limited to opioid related incidents resulting in death (fatal overdoses).
 
 # The Impact of OxyContin
 ## Opioid related deaths between 1999 and 2015
 
-The first point of reference I will use to assess the impact the approval of OxyContin for pain management has had is through the analysis on the number of opioid related deaths our country has seen since. 
+The first point of reference to assess the impact of the approval of OxyContin for pain management uses the analysis on the number of opioid related deaths our country has seen since. 
 
 
-### _Question 1: How have the number of opioid related deaths changed in the past couple of decades?_
+### _Question 1: How have the number of opioid related deaths changed since OxyContins approval?_
 
-In exploring how long these trends have lasted, I decided to calculate the percent change in opioid overdose deaths between 1999 and 2015 utilizing the data from the CDCs blah blah blah.
+In exploring how long these trends have lasted, I decided to calculate the percent change in opioid overdose deaths between 1999 and 2015 utilizing the data from the CDCs National Center for Health Statistics.
 
 **Step 1:** Create a new column to store the percent change values "Insert" --> "Insert Column"
 
@@ -80,7 +80,7 @@ Percent change is found by comparing the difference between the values with the 
 
  
 ### Findings
-As Purdue Pharma bought a monopoly on America’s pain, citizens were feeling its effects. In the twenty years that followed Purdue Pharma’s introduction of OxyContin into the world, there was a **171% increase in total opioid overdose deaths between 1999 and 2015.** The results are even more jarring when you break it down by age group.
+As Purdue Pharmaceauticals bought a monopoly on America’s pain, citizens were feeling its effects. In the twenty years that followed Purdue Pharmaceauticals’ introduction of OxyContin into the world, there was a **171% increase in total opioid overdose deaths between 1999 and 2015.** The results are even more jarring when you break it down by age group.
 
 
 ### _**Question 2:** What group was the most affected?_
@@ -139,9 +139,9 @@ Pivot table editor --> sort ROWS by "Rate", Descending.
 
 ### Findings
 
-The states with the ten highest rates of opioid related overdoses in 2020 were **West Virginia, Kentucky, Deleware, Ohio, Tennessee, Maryland, Louisiana, Pennsylvania, and Maine.**
+The states with the ten highest rates of opioid related overdoses in 2020 were **West Virginia, Kentucky, Delaware, Ohio, Tennessee, Maryland, Louisiana, Pennsylvania, and Maine.**
 
-It is interesting that the states with the highest rate of opioid despensing aren't also the ones with the highest rates of overdoses. 
+It is interesting that the states with the highest rate of opioid dispensing aren't also the ones with the highest rates of overdoses. 
 
 ### _Question 5: How has this changed over time?_
 
@@ -179,7 +179,7 @@ I then wanted to find the states with the three highest percent changes between 
 
 The largest increases in opioid related overdoses were in **West Virginia, Indiana, and Louisiana.**
 
-There was **not one state with descreasing percent change in opioid related overdoses between 1999 and 2021.**
+There was **not one state with decreasing percent change in opioid related overdoses between 1999 and 2021.**
 
 ### Data Vizualization
 
