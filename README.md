@@ -146,19 +146,6 @@ The states with the ten highest rates of opioid related overdoses in 2020 were *
 
 It is interesting that the states with the highest rate of opioid despending aren't also the ones with the highest rates of overdoses. 
 
-### Data Vizualization
-
-
-Utilizing the data from the CDC's National Center for Health Statistics, I created a [choropleth map illustrating the rate of fatal overdoses by state per 100,000 persons](https://www.datawrapper.de/_/HIGDz/) to help vizualize what these overdose numbers look like throughout the country.
-
-![COROPLETH MAP](https://github.com/leahs02/J124final/assets/117393397/659a7863-f48d-4e65-a15a-7cce239d968c)
-
-### Findings
-The darker the state is, the higher the rate is for drug overdoses per capita. West Virginia had the highest rate of fatal overdoses of 90 per
-100,000 people dying that year from overdoses. In the area between the midwest and the east coast, this trend of high rates continues as the map darkens all throughout Kentucky and Tennessee with rates of about 56 overdose deaths per 100,000 people. 
-
-What do all of these states have in common? They are all considered to be part of the Appalachian Region. 
-
 ### _Question 5: How has this changed over time?_
 
 To explore how the rates of overdoses per state have changed, I created a pivot table to vizualize the breakdown of each states overdose rate per capita per year. From there, I calculated the percent change between years 1999 and 2021 for each state. 
@@ -197,3 +184,12 @@ The largest increases in opioid related overdoses were in **West Virginia, India
 
 There was **not one state with descreasing percent change in opioid related overdoses between 1999 and 2021.**
 
+### Data Vizualization
+
+Utilizing the data from the CDC's National Center for Health Statistics, I created a [choropleth map illustrating the rate of fatal overdoses by state per 100,000 persons](https://www.datawrapper.de/_/HIGDz/) to help vizualize what these overdose numbers look like throughout the country.
+
+![COROPLETH MAP](https://github.com/leahs02/J124final/assets/117393397/659a7863-f48d-4e65-a15a-7cce239d968c)
+
+### Findings
+The darker the state is, the higher the rate is for drug overdoses per capita.**West Virginia had the highest rate of fatal overdoses of 90 per
+100,000 people dying that year from overdoses.** In the area between the midwest and the east coast, this trend of high rates continues as the map darkens all throughout Kentucky and Tennessee with rates of about 56 overdose deaths per 100,000 people
