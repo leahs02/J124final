@@ -99,17 +99,36 @@ Females, aged 25 - 34, saw a **1,433.33% increase in opioid related deaths betwe
 
 # The Source of the Drugs
 
-### _Question 3: Where are these drugs coming from?_
+### _Question 3: Where are the pills coming from?_
 
-I approached this question by first looking at the states which had the highest rates of prescriptions per capita. 
+As the opioid epedemic raveged entire communities in the early 2000s, I decided to see if the data could be localized. I figured starting at the source would give me the best look into where these pills were coming from. Using the data from the CDC I looked at the top 10 states where the number of prescription opioid pills per capita was the highest.
+
+**Step 1:** Create a pivot table 
+Insert--> Pivot Table--> select "State" as the ROW, "Dispensing Rate per 100 People" as the VALUES
 
 
-Then I looked at what region these drugs were coming from. 
-use VLOOK UP with a key of the states in each geographical region and match that with the data set you have on prescriptions per state -- will find that the south has the most break that down more to the individual states to see which ones get the most
+**Step 2:** Sort the data based on the dispensing rate in descending order such that the states with the highest rates change will be listed first
+Pivot table editor --> sort ROWS by "SUM of Dispensing Rate per 100 People", Descending.
 
-Mention that this is a limitation because its where the doctors wrote the prescription from, not where they were ingested. Thus.. what follows is that where people are actually dying might be different from where they were prescribed. 
+<img width="224" alt="Screenshot 2023-08-09 at 6 04 56 PM" src="https://github.com/leahs02/J124final/assets/117393397/62840261-3571-4033-a9ea-3755a0eeb428">
+
+<img width="384" alt="Screenshot 2023-08-09 at 6 08 33 PM" src="https://github.com/leahs02/J124final/assets/117393397/f4d4e6ff-093b-4542-ad21-3fc8027b5b6b">
+
+### Findings
+
+The 10 states with the highest opioid dispensing rates per capita included **Alabama, Arkansas, Tennessee, Louisiana, Kentucky, Mississippi, Kansas, Oklahoma, Indiana.** Most of these states are in the southern and midwestern regions.
+
+The more shocking finding from this analysis, though, was the actual rates themselves. **Doctors in Alabama prescribed enough opioids such that 80 out of every 100 people could be using.** Opioids are _dangerous_ and _addictive,_ and should _only_ be used by patients in cases of extreme pain. The fact that there were enough opioids to supply half of the populations in those ten states listed above should be horrifying. Even if you litened to your doctor and took your medication exactly as instructed, doctors over perscribed at such hugh rates that addiction among patient became increasingly common. The governemnt and health officials sat complacient while our country was being roofied by Purdue Pharma.
+
+There is one notable limitation to this graph that I should mention here: this data lists the retail opioid prescriptions dispensed per 100 people per state, not necessarily where the drugs were taken. 
+
+So unless 80 out of every 100 people in Alabama had actually been using up the opioids prescribed to them, it's easy to see how a lot of the pills could have make it out of bathroom cabinents and onto the streets. Often abusers would have to travel across state lines to reach "pill mills", clinics they knew would over perscribe, to get their fix. 
+
+Thus, I next wanted to explore if the rates of where people were using lined up similarly to where the pills were being distributed. 
 
 ### _Question 4: What do overdose rates look like per state?_
+
+
 
 Utilizing data from the CDC's National Center for Health Statistics, I created a [choropleth map illustrating the rate of fatal overdoses by state per 100,000 persons](https://www.datawrapper.de/_/HIGDz/). 
 
@@ -121,7 +140,7 @@ The darker the state is, the higher the rate is for drug overdoses per capita. W
 
 What do all of these states have in common? They are all considered to be part of the Appalachian Region. 
 
-### _Question 5: How are rates per state changing_
+### _Question 5: Where are the pills being used?_
 
 To explore how the rates of overdoses per state have changed, I created a pivot table to vizualize the breakdown of each states overdose rate per capita per year. From there, I calculated the percent change between years 1999 and 2021 for each state. 
 
